@@ -1,3 +1,3 @@
-# pos-application-react
+### pos-application-react
 
-# live-site : https://pos-application101.onrender.com/
+## live-site : https://pos-application101.onrender.com/
